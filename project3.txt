@@ -1,0 +1,6 @@
+Git Quiz
+1. git init
+2. clone
+3. A file named CPSC122 would be there now
+4. git merege 
+5. It is a hosting platform for collaboration and version control

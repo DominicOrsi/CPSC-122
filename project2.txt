@@ -1,0 +1,6 @@
+Linux Quiz
+1. It displays the present working directory/the file you are in atm
+2. cd class_stuff
+3. mkdir work
+4. ls
+5. cp foo/ work
